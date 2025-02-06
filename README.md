@@ -131,6 +131,8 @@ _Analyzed over the last 15 accounting periods:_
 | 10         | 0.0756   | 0.3221    | Stable returns                     |
 | 13         | 0.1223   | 0.7328    | High returns with moderate risk    |
 | 14         | 0.0646   | 0.5756    | Balanced risk-return profile       |
+
+
 ![image](https://github.com/user-attachments/assets/928aac38-27ff-4d1c-9b4a-d5ea836e52e2)
 
 ### 🌟 **Key Observations:**
