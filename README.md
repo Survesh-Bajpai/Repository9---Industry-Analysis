@@ -140,6 +140,30 @@ _Analyzed over the last 15 accounting periods:_
 - **High Risk, High Return:** Period 13 demonstrates the best risk-reward tradeoff
 - **Volatile Period:** Period 4 exhibits extreme fluctuations, possibly due to macroeconomic shocks
 
+###IMPACT OF GCCS (GLOBAL CAPABILITY CENTRES) ON IT INDUSTRY
+•	**Positive Impacts:**
+o	Foreign Investment Growth: Increased MNC presence strengthens India’s position as a global IT hub.
+o	Higher Value Work: Shift from low-cost IT services to high-end AI R&D, cloud and cybersecurity projects.
+o	Improved Talent pool : GCCs drive upskilling in cutting-edge fields, boosting India’s IT expertise.
+•	**Challenges & Risks:**
+o	Increased competition for Talent : Higher salaries and perks at GCCs challenging traditional IT firms.
+o	Margin Pressure on IT Service Companies: MNCs setting up GCCs reduce demand for outsourced IT services.
+o	Erosion of Traditional Outsourcing Model :  Direct hiring by MNCs may shrink the traditional IT services export business over time.
+
+###FUTURE OUTLOOK: INDUSTRY SHIFT & ADAPTATION
+•	**AI & Automation-Driven Transformation**
+o	Traditional services ( e.g. BPO, software testing, etc ) may/will decline.
+o	Growth in AI/ML consulting, cloud-native solutions and cybersecurity.
+•	**Rise of Hybrid Models**
+o	IT firms may need to combine human expertise with AI automation and even AI agents.
+o	Traditional Delivery models may undergo significant transformation.
+•	**Expansion into Emerging Markets**
+o	Reducing over-reliance on US/Europe by targeting APAC, Middle East and Africa.
+•	**Talent upskilling and retention**
+o	Huge investments would be needed in upskilling people on AI/ML, cloud and cybersecurity technologies.
+
+________________________________________
+
 ---
 
 ## 📝 **Conclusion**
